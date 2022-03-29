@@ -43,7 +43,6 @@ def get_anagram_groups(words:List) -> Dict[str, Tuple]:
 
 
 def main():
-    # words = ["top", "pot", "angel", "glean", "elbow", "below", "lobe"]
     words = ["pot", "turn", "opt", "top"]
     anagram_groups = get_anagram_groups(words)
 
