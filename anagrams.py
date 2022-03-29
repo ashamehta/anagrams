@@ -1,6 +1,4 @@
 """
-Script: Asha Thomas
-Purpose: Illumina interview by Vivek Krishnakumar
 Date: 3/29/2022
 
 Instructions:
