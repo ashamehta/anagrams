@@ -1,5 +1,5 @@
 """
-Date: 3/29/2022
+3/29/2022
 
 Instructions:
 Given a list of strings, return all the anagram groups.
